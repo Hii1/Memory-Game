@@ -1,15 +1,11 @@
 # Memory Game
 
 - The game will generate random numbers and the player must memorize the pattern in order
-
   <br />
-
 - if the player remebers the correct number pattern, he/she passes to the next level
-
-<br />
-
+  <br />
 - Initial size of the pattern 5
-  <br /><br />
+  <br /><br /><br />
 
 # To excute the game
 
